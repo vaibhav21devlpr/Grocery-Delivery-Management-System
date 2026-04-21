@@ -10,15 +10,21 @@ An end-to-end **Data Engineering pipeline** for a grocery delivery system,
 covering batch processing, real-time streaming, big data analytics, and workflow orchestration using **Spark, Kafka, PostgreSQL, and Airflow**.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Architecture](#-architecture)
+- [Data Pipeline Flow](#-data-pipeline-flow)
+- [Tech Stack](#-tech-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Sample Analytics](#-sample-analytics)
+- [Screenshots](#-screenshots)
+- [Key Learnings](#-key-learnings)
+- [Documentation](#-documentation)
+- [Contributing](#-contributing)
+- [Author](#-author)
+- [License](#-license)
 
 ## 🎯 Overview
 
@@ -107,8 +113,8 @@ Online grocery platforms generate massive amounts of data daily. This project bu
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/grocery-delivery-de-project.git
-cd grocery-delivery-de-project
+git clone https://github.com/vaibhav21devlpr/Grocery-Delivery-Management-System.git
+cd Grocery-Delivery-Management-System
 ```
 
 2. **Install dependencies**
@@ -119,6 +125,7 @@ pip install -r requirements.txt
 3. **Run setup script**
 ```bash
 bash setup.sh
+```
 
 4. **Generate sample data**
 ```bash
