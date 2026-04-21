@@ -1,0 +1,201 @@
+product_id,product_name,category_id,price,unit,description,is_active
+1,Apple,1,326.92,kg,High quality Apple,True
+2,Banana,1,375.94,ltr,High quality Banana,True
+3,Orange,1,127.14,bottle,High quality Orange,True
+4,Mango,1,69.2,bottle,High quality Mango,True
+5,Grapes,1,448.25,kg,High quality Grapes,True
+6,Tomato,1,303.44,kg,High quality Tomato,True
+7,Potato,1,34.3,ltr,High quality Potato,True
+8,Onion,1,131.68,box,High quality Onion,True
+9,Carrot,1,32.74,ltr,High quality Carrot,True
+10,Spinach,1,363.69,bottle,High quality Spinach,True
+11,Broccoli,1,281.57,ltr,High quality Broccoli,True
+12,Cucumber,1,235.62,pcs,High quality Cucumber,True
+13,Watermelon,1,408.53,kg,High quality Watermelon,True
+14,Papaya,1,384.23,ltr,High quality Papaya,True
+15,Lemon,1,355.11,pcs,High quality Lemon,True
+16,Milk,2,153.38,ltr,High quality Milk,True
+17,Cheese,2,479.46,pcs,High quality Cheese,True
+18,Yogurt,2,69.06,pack,High quality Yogurt,True
+19,Butter,2,66.42,pcs,High quality Butter,True
+20,Eggs,2,309.79,kg,High quality Eggs,True
+21,Paneer,2,370.27,box,High quality Paneer,True
+22,Cream,2,79.92,pack,High quality Cream,True
+23,Curd,2,57.82,pcs,High quality Curd,True
+24,White Bread,3,418.11,box,High quality White Bread,True
+25,Brown Bread,3,445.02,pcs,High quality Brown Bread,True
+26,Cake,3,297.13,bottle,High quality Cake,True
+27,Cookies,3,53.39,bottle,High quality Cookies,True
+28,Croissant,3,129.39,pcs,High quality Croissant,True
+29,Muffin,3,492.91,ltr,High quality Muffin,True
+30,Coke,4,435.91,pack,High quality Coke,True
+31,Pepsi,4,153.43,bottle,High quality Pepsi,True
+32,Orange Juice,4,420.37,ltr,High quality Orange Juice,True
+33,Apple Juice,4,197.69,ltr,High quality Apple Juice,True
+34,Mineral Water,4,341.68,bottle,High quality Mineral Water,True
+35,Energy Drink,4,469.59,bottle,High quality Energy Drink,True
+36,Tea,4,54.27,bottle,High quality Tea,True
+37,Coffee,4,102.15,bottle,High quality Coffee,True
+38,Chips,5,137.51,pack,High quality Chips,True
+39,Biscuits,5,202.14,bottle,High quality Biscuits,True
+40,Namkeen,5,350.32,ltr,High quality Namkeen,True
+41,Instant Noodles,5,348.61,kg,High quality Instant Noodles,True
+42,Pasta,5,129.94,kg,High quality Pasta,True
+43,Rice,5,406.42,pack,High quality Rice,True
+44,Shampoo,6,148.52,ltr,High quality Shampoo,True
+45,Soap,6,458.31,box,High quality Soap,True
+46,Toothpaste,6,440.66,pcs,High quality Toothpaste,True
+47,Face Wash,6,122.06,pack,High quality Face Wash,True
+48,Hand Sanitizer,6,209.9,bottle,High quality Hand Sanitizer,True
+49,Lotion,6,240.25,pcs,High quality Lotion,True
+50,Detergent,7,87.02,bottle,High quality Detergent,True
+51,Dish Soap,7,289.46,pcs,High quality Dish Soap,True
+52,Floor Cleaner,7,378.57,pack,High quality Floor Cleaner,True
+53,Toilet Cleaner,7,450.95,pack,High quality Toilet Cleaner,True
+54,Napkins,7,193.76,ltr,High quality Napkins,True
+55,Ice Cream,8,264.57,kg,High quality Ice Cream,True
+56,Frozen Peas,8,382.78,kg,High quality Frozen Peas,True
+57,Frozen Pizza,8,93.36,ltr,High quality Frozen Pizza,True
+58,Frozen Paratha,8,400.2,pack,High quality Frozen Paratha,True
+59,Chicken,9,306.28,pack,High quality Chicken,True
+60,Fish,9,203.18,pack,High quality Fish,True
+61,Mutton,9,273.97,box,High quality Mutton,True
+62,Prawns,9,433.17,kg,High quality Prawns,True
+63,Eggs (Meat Section),9,346.54,kg,High quality Eggs (Meat Section),True
+64,Corn Flakes,10,347.22,box,High quality Corn Flakes,True
+65,Oats,10,380.42,bottle,High quality Oats,True
+66,Muesli,10,183.28,pcs,High quality Muesli,True
+67,Bread,10,228.69,pack,High quality Bread,True
+68,Jam,10,21.56,bottle,High quality Jam,True
+69,Honey,10,440.41,pcs,High quality Honey,True
+70,Product 70,9,385.74,box,General product,True
+71,Product 71,2,437.85,pcs,General product,True
+72,Product 72,9,312.31,ltr,General product,True
+73,Product 73,6,386.01,box,General product,True
+74,Product 74,9,460.88,box,General product,True
+75,Product 75,6,254.53,kg,General product,True
+76,Product 76,6,441.79,pcs,General product,True
+77,Product 77,4,47.8,box,General product,True
+78,Product 78,2,61.11,pack,General product,True
+79,Product 79,2,489.43,box,General product,True
+80,Product 80,3,81.63,pack,General product,True
+81,Product 81,9,99.26,box,General product,True
+82,Product 82,10,223.11,ltr,General product,True
+83,Product 83,9,382.53,bottle,General product,True
+84,Product 84,4,362.22,pack,General product,True
+85,Product 85,6,230.29,box,General product,True
+86,Product 86,8,78.08,ltr,General product,True
+87,Product 87,2,182.28,box,General product,True
+88,Product 88,9,130.46,ltr,General product,True
+89,Product 89,1,54.08,bottle,General product,True
+90,Product 90,1,129.89,kg,General product,True
+91,Product 91,6,54.01,ltr,General product,True
+92,Product 92,5,341.11,ltr,General product,True
+93,Product 93,9,83.51,box,General product,True
+94,Product 94,10,246.88,pack,General product,True
+95,Product 95,7,111.4,kg,General product,True
+96,Product 96,7,190.06,pack,General product,True
+97,Product 97,8,434.64,kg,General product,True
+98,Product 98,2,49.09,bottle,General product,True
+99,Product 99,6,404.28,kg,General product,True
+100,Product 100,4,111.96,box,General product,True
+101,Product 101,8,87.29,ltr,General product,True
+102,Product 102,5,242.06,kg,General product,True
+103,Product 103,8,407.85,box,General product,True
+104,Product 104,2,44.28,box,General product,True
+105,Product 105,1,485.12,ltr,General product,True
+106,Product 106,3,215.08,pack,General product,True
+107,Product 107,4,435.03,kg,General product,True
+108,Product 108,3,201.91,pack,General product,True
+109,Product 109,5,464.73,pack,General product,True
+110,Product 110,5,223.04,bottle,General product,True
+111,Product 111,9,337.7,pack,General product,True
+112,Product 112,3,111.15,ltr,General product,True
+113,Product 113,1,298.01,box,General product,True
+114,Product 114,1,379.03,kg,General product,True
+115,Product 115,1,300.41,box,General product,True
+116,Product 116,9,95.57,box,General product,True
+117,Product 117,2,428.64,kg,General product,True
+118,Product 118,10,52.62,ltr,General product,True
+119,Product 119,7,77.55,box,General product,True
+120,Product 120,4,297.88,kg,General product,True
+121,Product 121,10,59.35,bottle,General product,True
+122,Product 122,10,291.31,pcs,General product,True
+123,Product 123,5,118.04,bottle,General product,True
+124,Product 124,6,134.57,pack,General product,True
+125,Product 125,3,342.41,pcs,General product,True
+126,Product 126,8,171.77,kg,General product,True
+127,Product 127,1,239.98,box,General product,True
+128,Product 128,2,55.17,ltr,General product,True
+129,Product 129,9,147.3,pcs,General product,True
+130,Product 130,2,442.05,pcs,General product,True
+131,Product 131,5,95.72,box,General product,True
+132,Product 132,5,313.61,bottle,General product,True
+133,Product 133,9,23.76,box,General product,True
+134,Product 134,5,467.24,kg,General product,True
+135,Product 135,3,146.94,kg,General product,True
+136,Product 136,9,94.61,pcs,General product,True
+137,Product 137,10,121.1,pcs,General product,True
+138,Product 138,4,350.0,pcs,General product,True
+139,Product 139,9,254.5,kg,General product,True
+140,Product 140,2,324.46,pcs,General product,True
+141,Product 141,1,21.7,ltr,General product,True
+142,Product 142,5,97.56,pack,General product,True
+143,Product 143,9,358.72,box,General product,True
+144,Product 144,1,73.7,bottle,General product,True
+145,Product 145,3,281.88,pcs,General product,True
+146,Product 146,10,285.21,pack,General product,True
+147,Product 147,3,40.08,pcs,General product,True
+148,Product 148,1,451.48,ltr,General product,True
+149,Product 149,4,340.13,pcs,General product,True
+150,Product 150,9,444.38,pack,General product,True
+151,Product 151,10,379.75,ltr,General product,True
+152,Product 152,3,488.58,ltr,General product,True
+153,Product 153,7,31.9,bottle,General product,True
+154,Product 154,6,395.55,pack,General product,True
+155,Product 155,4,148.07,bottle,General product,True
+156,Product 156,2,203.62,kg,General product,True
+157,Product 157,8,126.77,pack,General product,True
+158,Product 158,6,166.49,ltr,General product,True
+159,Product 159,4,31.36,ltr,General product,True
+160,Product 160,7,177.57,kg,General product,True
+161,Product 161,5,188.55,box,General product,True
+162,Product 162,7,346.17,box,General product,True
+163,Product 163,6,470.83,kg,General product,True
+164,Product 164,5,105.71,pcs,General product,True
+165,Product 165,1,72.03,pack,General product,True
+166,Product 166,6,369.7,pcs,General product,True
+167,Product 167,7,310.98,box,General product,True
+168,Product 168,2,204.89,box,General product,True
+169,Product 169,4,142.27,bottle,General product,True
+170,Product 170,7,20.81,box,General product,True
+171,Product 171,4,194.83,kg,General product,True
+172,Product 172,6,319.11,bottle,General product,True
+173,Product 173,2,365.48,pcs,General product,True
+174,Product 174,9,168.46,pack,General product,True
+175,Product 175,6,213.15,pcs,General product,True
+176,Product 176,9,81.1,pack,General product,True
+177,Product 177,7,345.11,ltr,General product,True
+178,Product 178,10,293.17,pack,General product,True
+179,Product 179,9,420.19,pcs,General product,True
+180,Product 180,5,120.89,box,General product,True
+181,Product 181,10,334.26,pack,General product,True
+182,Product 182,8,232.24,ltr,General product,True
+183,Product 183,9,247.13,bottle,General product,True
+184,Product 184,3,336.25,pcs,General product,True
+185,Product 185,9,338.65,box,General product,True
+186,Product 186,6,64.83,ltr,General product,True
+187,Product 187,5,127.83,ltr,General product,True
+188,Product 188,3,31.72,ltr,General product,True
+189,Product 189,8,313.41,kg,General product,True
+190,Product 190,8,218.93,bottle,General product,True
+191,Product 191,10,113.33,bottle,General product,True
+192,Product 192,7,257.3,ltr,General product,True
+193,Product 193,3,334.91,kg,General product,True
+194,Product 194,2,393.64,ltr,General product,True
+195,Product 195,3,405.97,bottle,General product,True
+196,Product 196,9,242.98,box,General product,True
+197,Product 197,4,460.39,kg,General product,True
+198,Product 198,8,84.0,pack,General product,True
+199,Product 199,9,494.19,box,General product,True
+200,Product 200,6,476.02,pack,General product,True

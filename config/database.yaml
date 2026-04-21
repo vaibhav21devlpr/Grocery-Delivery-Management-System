@@ -1,0 +1,34 @@
+# Database Configuration for Grocery Delivery System
+
+database:
+  host: localhost
+  port: 5433
+  database: grocery_delivery
+  user: postgres
+  password: admin123
+  
+warehouse:
+  host: localhost
+  port: 5433
+  database: grocery_warehouse
+  user: postgres
+  password: admin123
+
+# HDFS Configuration
+hdfs:
+  namenode: localhost
+  port: 9000
+  replication: 3
+
+# Spark Configuration
+spark:
+  master: local[*]
+  app_name: GroceryDeliveryPipeline
+  executor_memory: 4g
+  driver_memory: 2g
+  
+# Logging
+logging:
+  level: INFO
+  file: logs/pipeline.log
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
